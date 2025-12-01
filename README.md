@@ -2,6 +2,8 @@
 
 A custom "Matrix Rain" visual effect featuring a massive, glowing "dp" logo in the center.
 
+## [🔴 Live Demo](https://thejohnnyrocket.github.io/dp-matrix-rain/)
+
 ## Features
 
 - **Custom Logo**: A large, centered "dp" logo formed by falling characters.
